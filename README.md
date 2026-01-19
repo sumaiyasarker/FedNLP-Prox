@@ -1,6 +1,6 @@
 # 🚀 Federated Learning for NLP using Flower & DistilBERT
 
-This project demonstrates a **high-profile, research-grade Federated Learning (FL) pipeline** for **Natural Language Processing (NLP)** using **Flower (FLWR)** and **Transformer models**.
+This project demonstrates a **research-grade Federated Learning (FL) pipeline** for **Natural Language Processing (NLP)** using **Flower (FLWR)** and **Transformer models**.
 We fine-tune **DistilBERT** on the **IMDB sentiment classification dataset** in a **non-IID federated setting** using the **FedProx strategy**.
 
 ---
